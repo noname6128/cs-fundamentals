@@ -16,7 +16,7 @@
     + -u: print only unique lines
     + -c/--count: prefix lines by the number of occurrences
 - sort: sort lines of the text
-- string: print the sequences of printable characters in files
+- strings: print the sequences of printable characters in files
 - find: search for files in a directory hierachy /directory hierachy: hệ thống phân cấp thư mục/
     + -group + ngroup: find files belong to group name
     + -size: find the files use less than (-), more than (+), or exactly n units of space
