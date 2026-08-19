@@ -1,0 +1,13 @@
+2026-08-19 10:01:23 INFO [192.168.1.10] - GET /api/v1/users - Status: 200
+2026-08-19 10:01:25 ERROR [10.0.0.5] - POST /api/v1/login - Status: 500 - Database connection failed
+2026-08-19 10:02:01 WARN [192.168.1.15] - GET /dashboard - Status: 401 - Unauthorized access
+2026-08-19 10:02:10 INFO [192.168.1.10] - GET /api/v1/products - Status: 200
+2026-08-19 10:03:45 ERROR [172.16.0.42] - GET /api/v1/checkout - Status: 502 - Bad Gateway
+2026-08-19 10:04:12 INFO [10.0.0.5] - GET /api/v1/login - Status: 200
+2026-08-19 10:05:00 ERROR [10.0.0.5] - POST /api/v1/payment - Status: 500 - Timeout
+2026-08-19 10:05:30 INFO [192.168.1.20] - GET /index.html - Status: 200
+2026-08-19 10:06:15 WARN [192.168.1.15] - POST /api/v1/upload - Status: 403 - Forbidden
+2026-08-19 10:07:00 ERROR [172.16.0.42] - GET /api/v1/reports - Status: 504 - Gateway Timeout
+2026-08-19 10:08:22 INFO [192.168.1.10] - GET /api/v1/users/profile - Status: 200
+2026-08-19 10:09:05 ERROR [10.0.0.5] - POST /api/v1/payment - Status: 500 - Timeout
+2026-08-19 10:10:00 INFO [192.168.1.25] - GET /about - Status: 200
